@@ -41,3 +41,26 @@ Tareas de hoy
 
 --Documentar lo antrerior.
 
+
+### Circuitos "Serie, paralelo"
+
+En un circuito en serie, todos los componentes están conectados de extremo a extremo, formando una ruta única para el flujo de corriente. En un circuito paralelo, todos los componentes están conectados entre sí, formando exactamente dos conjuntos de puntos eléctricamente comunes.
+
+## Circuitos "Botón"
+
+El botón de un dispositivo electrónico funciona por lo general como un interruptor eléctrico, es decir en su interior tiene dos contactos, al ser pulsado uno, se activará la función inversa de la que en ese momento este realizando, si es un dispositivo NA (normalmente abierto) será cerrado, si es un dispositivo NC.
+
+
+### Como programar el Blink 
+
+"El programa Blink, simplemente enciende y apaga un LED ubicado en la salida 9, cada 1 segundo. El programa luego de configurar la salida 9, escribe en la salida para que se prenda el LED, luego espero 1 segundo y lo apaga, luego vuelve a esperar y así sucesivamente"
+
+## Morse (El programa Blink, simplemente enciende y apaga un LED ubicado en la salida 9, cada 1 segundo. El programa luego de configurar la salida 9, escribe en la salida para que se prenda el LED, luego espero 1 segundo y lo apaga, luego vuelve a esperar y así sucesivament).
+
+## Morse (1) (El código morse es conocido mundialmente como un sistema de codificación de mensajes que se envían a través de la combinación de rayas y puntos y que emisor y receptor deben saber escribir y leer correctamente. Fue creado por el pintor e inventor norteamericano Samuel Breese Morse y su colaborador Alfred Vail en 1838).
+
+## Morse (2) (El código Morse es un sistema de escritura utilizado para transmitir mensajes telegráficosa larga distancia. Fue desarrollado en el año 1835 por Alfred Vail y Samuel Morse durante su invención del telégrafo eléctrico. El Código Morse consiste en rayas y puntos que representan letras y números).
+
+### Aguntos sobre electricitat
+
+La electricidad es movida con una fuerza que llamamos tensión. Llega a nuestras casas a través de cables que van entubados en la pared, debajo del suelo o en el techo. Una vez que entra en nuestra vivienda, se puede encontrar con la llave térmica o el tapón fusible.
