@@ -26,6 +26,8 @@ Intensidad=Voltaja/resistenica= Ley de Ohm
 
 Tenemos 2 circuitos(El voltaje de los dos circuitos es 5V)
 
+(Para que no se frian)
+
 5V -- GND ov
 5V -- GND ov
  
