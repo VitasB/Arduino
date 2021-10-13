@@ -32,3 +32,12 @@ Tenemos 2 circuitos(El voltaje de los dos circuitos es 5V)
 5V -- GND ov
  
  5V/441= 0,01133 A=11,33mA
+
+
+Tareas de hoy
+--Blink
+
+--mensaje ed morse
+
+--Documentar lo antrerior.
+
