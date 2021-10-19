@@ -64,3 +64,16 @@ El botón de un dispositivo electrónico funciona por lo general como un interru
 ### Aguntos sobre electricitat
 
 La electricidad es movida con una fuerza que llamamos tensión. Llega a nuestras casas a través de cables que van entubados en la pared, debajo del suelo o en el techo. Una vez que entra en nuestra vivienda, se puede encontrar con la llave térmica o el tapón fusible.
+
+
+### Errores y excepciones
+Operacionees no permitos por el lengaje de programacion
+Bug, Glitch, Error, Execpcion
+
+### Como programar Arduino
+
+-Primero tenemos Arduino.IDE instalado
+-Tenemos un usarioe con permisos
+-Conectamos el arduino po USB
+-Cargamos el programa Blink.INO
+-Archivo-Ejemplos-1.Basics-Blink-Captura
