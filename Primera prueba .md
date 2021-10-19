@@ -77,3 +77,20 @@ Bug, Glitch, Error, Execpcion
 -Conectamos el arduino po USB
 -Cargamos el programa Blink.INO
 -Archivo-Ejemplos-1.Basics-Blink-Captura
+-Pulsamos botón subir-
+-Errores posibles-
+
+## Conseguimos programar Blink.INO
+1 Buscarlo en internet (Arduino.cc)
+2 Subirlo nosotros
+3 Emozar em primera prueba
+
+Captura de pantalla
+Dificil de regular
+Copiars pegar el codigo
+```c++
+
+Morse 1- Hullimos multiplicamos en el codigo para cambiar el tengo de brillo. Para eso hicimso cambios en las lineas delay(_);
+
+Morse 2
+# Que hace blink.INO
