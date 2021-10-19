@@ -19,6 +19,7 @@ Ordenador:
 ### salidas outputs:
 
 -altavozes
+
 -monitor
 
 
