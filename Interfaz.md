@@ -9,8 +9,11 @@ Ordenador:
 ### input:
 
 -ratón
+
 -teclado
+
 -micro
+
 -webcam
 
 ### salidas outputs:
