@@ -215,4 +215,9 @@ else{
 }
 }
 ```
-Lo que hicimos fue mover el  checkButton(); y el if (play) de el void lood a el void tocarNota y la funcion que hacia tocar nota la metimos dentro del if (play) y asi solucionariamos el problema del kill switch.
+
+Escribiré esto en inglés porque no sé cómo se escribe en español.
+
+*Esto es*
+
+What we did was move the checkButton (); and the if (play) of the void lood to the void touchNote and the function that made the note touch we put it inside the if (play) and thus we would solve the problem of the kill switch.
