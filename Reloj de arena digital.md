@@ -16,6 +16,9 @@ Esto quiere decir que no puede haber ninguna otra entrada o salida mientras est�
 
 ### THE CODE
 
+El código está aquí: [Enlace](https://github.com/VitasB/Arduino/blob/main/reloj%20de%20arena%20digital.ino)
+
+```C++
 const int switchPin = 8;
 unsigned long previousTime = 0;
 int switchState =0;
@@ -47,6 +50,7 @@ previousTime = currentTime;
 }
 prevSwitchState = switchState;
 }
+```
 
 ## USE
 
