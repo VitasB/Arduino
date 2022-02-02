@@ -21,7 +21,8 @@ Para este proyecto se necesita: Cables, Interruptor, Leds, Resistencia de 10 Kil
 
 Aquí está el código del proyecto: 
 
-``` C++
+```C++
+
 #include <Servo.h>
 Servo myServo;
 const int piezo = A0;
