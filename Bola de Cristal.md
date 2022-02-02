@@ -3,7 +3,7 @@
 En el día de hoy, junto a [Joan Leyva](https://github.com/Draken666) he hecho el proyecto Arduino llamado Bola de Cristal.
 
 # Codigo
-```
+```C++
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 const int switchPin = 6;
