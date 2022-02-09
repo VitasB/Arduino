@@ -18,5 +18,5 @@ Arduino es una plataforma de creación de electrónica de código abierto, la cu
 * [Proyecto Bola de cristal](https://github.com/VitasB/Arduino/blob/main/Bola%20de%20Cristal.md)
 * Cerrojo
 * [Proyecto Lámpara Táctil](https://github.com/VitasB/Arduino/blob/main/L%C3%A1mpara%20T%C3%A1ctil.md)
-* Joystick
+* [Proyecto de Joystick](https://github.com/VitasB/Arduino/blob/main/Joystick.md)
 * Sensor de temperatura y humedad
