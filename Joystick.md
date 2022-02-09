@@ -4,6 +4,8 @@ Tuvimos un problema con la codificación, daba error, el profesor nos ayudó exp
 
 ## CODIGO 
 ++cc
+
+
 const int pinLED = 6;
 const int pinJoyX = A0;
 const int pinJoyY = A1;
