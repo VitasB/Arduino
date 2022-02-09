@@ -45,3 +45,12 @@ void loop() {
     }
 }
 ```
+# Fotos 
+
+[Foto 1](https://drive.google.com/file/d/1AKpkOiNwWM-hHyJ9z8lMx0r6aU72QSqZ/view)
+[Foto 2](https://drive.google.com/file/d/1AKpkOiNwWM-hHyJ9z8lMx0r6aU72QSqZ/view)
+[Foto 3](https://drive.google.com/file/d/1AIGKlmKzi6gtdltBFWOyUkdMoHWi8rYz/view)
+[Foto 4](https://drive.google.com/file/d/1AfiqEdxSduZo4fibcxITp3imXihwUXks/view)
+
+# Resumen
+En la parte superior puede ver el código y las fotos adjuntas después de que el trabajo se haya realizado correctamente, sin errores. Aquí es donde termina este proyecto.
