@@ -16,7 +16,8 @@ Arduino es una plataforma de creación de electrónica de código abierto, la cu
 * [Proyecto de Molinillo](https://github.com/VitasB/Arduino/blob/main/MOLINILLO.MD#molinillo)
 * [Proyecto Zootropo](https://github.com/VitasB/Arduino/blob/main/Zo%C3%B3tropo.MD)
 * [Proyecto Bola de cristal](https://github.com/VitasB/Arduino/blob/main/Bola%20de%20Cristal.md)
-* Cerrojo
+* [Proyecto Cerrojo](https://github.com/VitasB/Arduino/blob/main/Cerrojo.md)
 * [Proyecto Lámpara Táctil](https://github.com/VitasB/Arduino/blob/main/L%C3%A1mpara%20T%C3%A1ctil.md)
 * [Proyecto de Joystick](https://github.com/VitasB/Arduino/blob/main/Joystick.md)
-* Sensor de temperatura y humedad
+* [Sensor de temperatura y humedad](https://github.com/VitasB/Arduino/blob/main/MEDIDOR%20DE%20TEMPERATURA%20Y%20HUMEDAD.md)
+* [Reloj de arena digital](https://github.com/VitasB/Arduino/blob/main/Reloj%20de%20arena%20digital(New).md)
